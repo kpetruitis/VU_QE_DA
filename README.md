@@ -1,3 +1,4 @@
 # VU_QE_DA
-Empirical analysis of the Phillips Curve in the 11 eurozone founders between 1999-2019.
+Vilnius University Quantitative Economics year II Data Analysis final group project.
+"Is the Phillips Curve still Alive? Panel Evidence from Founding Eurozone Members"
 Prepared by: Dominykas Vaičiūnas, Oskaras Rodionov, Anabela Vaitkevičiūtė and Kipras Petruitis.
