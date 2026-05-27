@@ -1,0 +1,8 @@
+Variable,Unit of measure,Description,Link
+Inflation,Percent,"Gotten by computing CPI data( (CPIt-CPIt-4)/CPIt-4)*100. Consumer Price Indices (CPIs, HICPs),  Consumer Price Index: All Items Non-Food Non-Energy, Quarterly, Not Seasonally Adjusted. ",Link example from Austria: https://fred.stlouisfed.org/series/CPGRLE01ATQ659N. All countries data extracted from this same website.
+Unemployment adjusted,Percent,"Monthly unemployment rate for population aged 15 and over, converted to quarterly frequency, seasonally adjusted.",Link example from Austria https://fred.stlouisfed.org/series/LRHUTTTTATA156S. All countries data extracted from this same website.
+Trade union density,Percent of employees,"Share of employees who are trade union members at a given point in time, annual frequency.","Share of employees who are trade union members at a given point in time, annual frequency. Source: OECD Data Explorer.https://data-explorer.oecd.org/vis?lc=en&df[ds]=DisseminateFinalDMZ&df[id]=DSD_TUD_CBC%40DF_TUD&df[ag]=OECD.ELS.SAE&df[vs]=1.0&dq=..&pd=2000%2C&to[TIME_PERIOD]=false&vw=tb"
+Globalization rating,Coefficient from 0 to 100,"KOF Globalisation Index, where higher values indicate greater globalisation.",https://kof.ethz.ch/en/forecasts-and-indicators/indicators/kof-globalisation-index.html
+Inflation lagged,Percent,Constructed by lagging the inflation variable by four quarters (one year). Values outside the 1999-2019 window are taken from adjacent periods to ensure correct measurement at the boundaries.,
+,,,
+This is a manually constructed dataset from various datasets,,,
